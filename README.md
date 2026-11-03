@@ -13,12 +13,7 @@ I love turning creative ideas into modern, interactive, and user-friendly web ap
 * 😄 **Pronouns:** He/Him
 * ⚡ **Fun Fact:** I don't just write code; I turn ideas into projects and challenges into learning experiences.
 
-## 🚀 What I Do
 
-* 💻 Build modern and responsive web applications.
-* 🎨 Explore creative UI/UX designs and animations.
-* 🤖 Experiment with AI and emerging technologies.
-* 🚀 Turn ideas into real-world digital products.
 
 
 ## 🌐 Socials:
