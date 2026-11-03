@@ -20,13 +20,6 @@ I love turning creative ideas into modern, interactive, and user-friendly web ap
 * 🤖 Experiment with AI and emerging technologies.
 * 🚀 Turn ideas into real-world digital products.
 
-## 🔗 Connect With Me
-
-Always open to learning, collaborating, and connecting with fellow developers!
-
-# 💫 About Me:
-🔭 Currently building creative web applications and exploring new ideas.<br>👯 Open to collaborating on innovative web development and AI projects.<br>🤝 Always excited to learn, share knowledge, and build something meaningful with developers.<br>🌱 Exploring Full-Stack Development, Next.js, Firebase & Artificial Intelligence.<br>💬 Feel free to ask me about React, JavaScript, Frontend Development & UI/UX.<br>⚡ Fun fact: I turn random ideas into real-world projects, one line of code at a time.
-
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/console404) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/abhyanshuraj_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/linkedin.com/in/abhyanshu-raj-123247348/) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@Console.404) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:abhyanshu2@gmail.com) 
